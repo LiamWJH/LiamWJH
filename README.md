@@ -18,6 +18,6 @@ My dream is becoming a 3x developer!(Currently 0.05x 💀)
 >- giga chad, from youtube(Probably🤣🤣🤣)
 
 >If i had 6hours to cut down a tree i would spend 5hours sharpening
->the axe and the rest cutting it down
+>the axe and the rest cutting it down.
 >- Abraham Lincoln
 
