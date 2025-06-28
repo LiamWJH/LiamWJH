@@ -7,11 +7,11 @@ My dream is becoming a 3x developer!(Currently 0.05x 💀)
 
 ## WhatImWorkingOn 😎😁😥😴
  - 1.Make my own (Mini) language with python!🤣
- - 2.Learn the Rust language!⚙️🧐
+ - 2.Making a Python superset!⚙️🧐
  - 3.Learn GitHub!😑
 
 ### QuotesILike
->it's necessary.
+>"Newton's third law. You gotta leave something behind."
 >- cooper, from interstellar
 
 >If it works DO touch it.
