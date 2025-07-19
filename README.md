@@ -6,7 +6,7 @@ I mainly use Python but i wanna be able to use Rust, C, and Js, and Java well!�
 My dream is becoming a 3x developer!(Currently 0.05x 💀)
 
 ## WhatImWorkingOn 😎😁😥😴
- - 1.Make my own (Mini) language with python!🤣
+ - 1.Make my own (Mini) projects that help me make projects! 😎
  - 2.Making a Python superset!⚙️🧐
  - 3.Learn GitHub!😑
 
