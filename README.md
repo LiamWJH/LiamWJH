@@ -5,19 +5,6 @@ I am a student that likes coding and learning new things about it.🧑‍💻
 I mainly use Python but i wanna be able to use Rust, C, and Js, and Java well!🧐
 My dream is becoming a 3x developer!(Currently 0.05x 💀)
 
-## WhatImWorkingOn 😎😁😥😴
- - 1.Make my own (Mini) projects that help me make projects! 😎
- - 2.Making a Python superset!⚙️🧐
- - 3.Learn GitHub!😑
-
-### QuotesILike
->"Newton's third law. You gotta leave something behind."
->- cooper, from interstellar
-
->If it works DO touch it.
->- giga chad, from youtube(Probably🤣🤣🤣)
-
->If i had 6hours to cut down a tree i would spend 5hours sharpening
->the axe and the rest cutting it down.
->- Abraham Lincoln
+## I am looking for work to do from simple projects!
+contact me on discord: liamgoesbrr(Just for fun)
 
