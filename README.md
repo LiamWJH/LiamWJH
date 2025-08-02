@@ -8,6 +8,7 @@ I like a good bug once in a while as i enjoy the steps and feeling when debuggin
 
 ## Fav quotes
 > One day we will look back and see how far we come
+
 > Who touches grass these days? 💀
 
 ## I'm looking for projects to do
