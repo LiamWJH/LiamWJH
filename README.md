@@ -10,7 +10,7 @@ progress and history. I love progress learning new things and coding itself.
 
 
 ## Main project (As of now)
-My main project as of now is [Bluewater](https:\\www.github.com/LiamWJH/Bluewater-lisp), it is a simple lisp dialect that supports all the basic features and bit more
+My main project as of now is [Ordinta](https:\\www.github.com/LiamWJH/Ordinta-lisp), it is a simple lisp dialect that supports all the basic features and bit more
 i have wrote this project only with vanilla python and argparse for command line interface. It has been a rapid growth as since the inititive commit.
 If you want to commit to this rapid growing lisp interpreter please make a issue on the good first issue or just make a PR right away.
 
@@ -20,8 +20,4 @@ Discord: liamgoesbrr
 
 
 TODO
- - make LiamWJH.github.io repo
- - make page for bluewater-lisp
-
-WORKING ON
- - bluewater-lisp: small lisp
+ - make page for Ordinta
