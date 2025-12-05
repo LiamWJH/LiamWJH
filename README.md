@@ -12,7 +12,3 @@ I have wrote this project only with vanilla Rust without any external parsing/le
 ## More
 Email: LiamWJH@protonmail.com
 Discord: liamgoesbrr
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiamWJH&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamWJH&layout=compact&theme=tokyonight)
